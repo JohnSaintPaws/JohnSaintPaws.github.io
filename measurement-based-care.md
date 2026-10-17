@@ -34,9 +34,9 @@ Q1 — Hyper/"not normal": [] / Irritable: [] / More self-confident: [] / Less s
 
 Q2 — Several symptoms same time period? (Y/N): []
 
-Q3 — Functional impairment (none / minor / moderate / serious): []
+Q3 — Functional impairment: []
 
-*Positive screen = ≥7 symptoms on Q1 AND Q2 = yes AND Q3 = moderate or serious. Reference period = lifetime. *
+*Positive screen = ≥7 symptoms on Q1 AND Q2 = yes AND Q3 = moderate or serious. Reference period = lifetime.*
 
 *(Adapted from Hirschfeld et al. Am J Psychiatry. 2000;157(11):1873–1875.)*
 
