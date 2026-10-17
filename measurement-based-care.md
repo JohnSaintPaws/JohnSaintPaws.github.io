@@ -4,7 +4,8 @@ permalink: /measurement-based-care
 
 ---
 
-**PHQ-9 — Total = [] / 27**
+**Patient Health Questionnaire-9 (PHQ-9) — Total = [] / 27**
+
 Anhedonia: [] / Depressed mood: [] / Sleep: [] / Fatigue: [] / Appetite: [] / Worthlessness–guilt: [] / Concentration: [] / Psychomotor: [] / Thoughts of death–self-harm: []
 
 *Each item 0–3. Reference period = past 14 days. Severity cutoffs: 5 / 10 / 15 / 20 = mild / moderate / moderately severe / severe.*
@@ -13,7 +14,8 @@ Anhedonia: [] / Depressed mood: [] / Sleep: [] / Fatigue: [] / Appetite: [] / Wo
 
 ---
 
-**GAD-7 — Total = [] / 21**
+**Generalized Anxiety Disorder-7 (GAD-7) — Total = [] / 21**
+
 Nervous–on edge: __ / Uncontrollable worry: __ / Excessive worry: __ / Trouble relaxing: __ / Restlessness: __ / Irritable: __ / Fear something awful may happen: __
 
 *Each item 0–3. Reference period = past 14 days. Severity cutoffs: 5 / 10 / 15 = mild / moderate / severe*
@@ -22,7 +24,7 @@ Nervous–on edge: __ / Uncontrollable worry: __ / Excessive worry: __ / Trouble
 
 ---
 
-**MDQ — Screening result: [] for bipolar spectrum disorder**
+**Mood Disorder Questionnaire (MDQ) — Screening result: [] for bipolar spectrum disorder**
 
 Q1 — Hyper/"not normal": [] / Irritable: [] / More self-confident: [] / Less sleep needed: [] / More talkative: [] / Racing thoughts: [] / Distractible: [] / More energy: [] / More active: [] / More social: [] / Increased sexual interest: [] / Risky behavior: [] / Excessive spending: []
 
@@ -36,7 +38,8 @@ Q3 — Functional impairment (none / minor / moderate / serious): []
 
 
 
-**Young Mania Rating Scale (YMRS)** • Total Score = [] (range 0-60)
+**Young Mania Rating Scale (YMRS)** — Total Score = [] (range 0-60)
+
 Elevated mood (0-4): [] / Increased motor activity-energy (0-4): [] / Sexual interest (0-4): [] / Sleep (0-4): [] / Irritability (0-8): [] / Speech (0-8): [] / Language-thought disorder (0-4): [] / Content (0-8): [] / Disruptive-aggressive behavior (0-8): [] / Appearance (0-4): [] / Insight (0-4): []
 
 *Items 5, 6, 8, 9 are double-weighted (0–8); all others 0–4. Reference period = last 48 hours. Severity bands: ≤12 = remission, 13–19 = minimal, 20–25 = mildly manic, 26–37 = moderately manic, 38–60 = severely manic (≈25 = "markedly ill" threshold). Response = ≥50% reduction from baseline. MCID ≈ 6.6 points.*
@@ -55,7 +58,8 @@ Delusions (P1): [] / Conceptual disorganization (P2): [] / Hallucinations (P3): 
 
 ---
 
-**PC-PTSD-5 — Total = [] / 5**
+**Primary Care PTSD Screen for DSM-5 (PC-PTSD-5) — Total = [] / 5**
+
 Trauma exposure (gate, Y/N): [] — if No, screen ends, score 0
 
 Nightmares–intrusions: [] / Avoidance: [] / Hypervigilance–startle: [] / Numbness–detachment: [] / Guilt–blame: []
@@ -67,6 +71,7 @@ Nightmares–intrusions: [] / Avoidance: [] / Hypervigilance–startle: [] / Num
 
 
 **PTSD Checklist for DSM-5 (PCL-5) — Total = [] / 80**
+
 Cluster B — Intrusion (5 items): [] / [] / [] / [] / []
 Cluster C — Avoidance (2 items): [] / []
 Cluster D — Negative alterations in cognition–mood (7 items): [] / [] / [] / [] / [] / [] / []
@@ -78,7 +83,8 @@ Cluster E — Alterations in arousal–reactivity (6 items): [] / [] / [] / [] /
 
 ---
 
-**MSI-BPD — Total = [] / 10**
+**McLean Screening Instrument for BPD (MSI-BPD) — Total = [] / 10**
+
 Unstable relationships: [] / Impulsivity: [] / Affective instability: [] / Inappropriate anger: [] / Identity disturbance: [] / Chronic emptiness: [] / Abandonment fears: [] / Suicidal–self-harm behavior: [] / Stress-related paranoia: [] / Dissociation: []
 
 *Each item 0/1. Positive screen ≥7.*
@@ -97,7 +103,7 @@ Unstable relationships: [] / Impulsivity: [] / Affective instability: [] / Inapp
 
 ---
 
-**DAST-10** — Total = [] / 10 
+**Drug Abuse Screening Test-10 (DAST-10)** — Total = [] / 10 
 
 Non-medical drug use: __ / Abuse of >1 drug at a time: __ / Unable to stop (reverse-scored): __ / Blackouts–flashbacks: __ / Guilt about use: __ / Family–spouse complaints: __ / Neglected family–work: __ / Illegal acts to obtain drugs: __ / Withdrawal symptoms: __ / Medical problems from use: __
 
@@ -107,7 +113,7 @@ Non-medical drug use: __ / Abuse of >1 drug at a time: __ / Unable to stop (reve
 
 ---
 
-**ASRS-5 — Total = ___ / 24**
+**Adult ADHD Self-Report Scale for DSM-5 (ASRS-5) — Total = ___ / 24**
 
 Does not listen when spoken to: [] / Puts things off to last minute: [] / Depends on others to stay organized: [] / Leaves seat inappropriately: [] / Feels driven by a motor: [] / Blurts out answers: []
 
